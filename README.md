@@ -94,7 +94,7 @@ VPS-Server: 12.34.56.78
 Shadowsocks-URL: ss://YWVzLTI1Ni1nY206bXktc2VjcmV0@:8388#VLP-shadowsocks
 ```
 
-![QR code example](https://github.com/samuelhbne/vpn-launchpad/blob/master/images/qr-sslibev.png)
+![QR code example](https://github.com/samuelhbne/proxy-sslibev/blob/master/images/qr-sslibev.png)
 
 ## How to stop and remove the running container
 
