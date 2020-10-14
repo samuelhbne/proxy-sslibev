@@ -1,6 +1,6 @@
 # proxy-sslibev
 
-SOCKS/HTTP/DNS proxy that tunnelling traffic via remote Shadowsocks server.
+Shadowsocks-libev client container with SOCKS5/HTTP/DNS proxy and QR code support. Running on x86 and arm/arm64 (Raspberry Pi).
 
 ## [Optional] How to build proxy-sslibev docker image
 
